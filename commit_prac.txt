@@ -1,1 +1,1 @@
-I modify this file to put it in modified mode 
+git commit -a -m "commit file when skip staging area by this command"  
